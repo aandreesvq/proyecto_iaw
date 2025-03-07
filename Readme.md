@@ -13,7 +13,7 @@ Esta  aplicación permite a los usuarios crear, administrar listas de tareas y r
 # Instalación y Ejecución (pruebas local)
 1. Clonar el repositorio
 - git clone https://github.com/jaimesg00/GR5.git
-
+  
 2. Crear un entorno virtual e instalar dependecias:
 - python -m venv myenv
 - Linux: source myenv/bin/activate Windows: source myenv\Scripts\activate
